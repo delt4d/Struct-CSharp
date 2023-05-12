@@ -1,0 +1,15 @@
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\c#\obj\Debug\net7.0\c#.csproj.AssemblyReference.cache
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\c#\obj\Debug\net7.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\c#\obj\Debug\net7.0\c#.AssemblyInfoInputs.cache
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\c#\obj\Debug\net7.0\c#.AssemblyInfo.cs
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\c#\obj\Debug\net7.0\c#.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\c#\bin\Debug\net7.0\c#.exe
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\c#\bin\Debug\net7.0\c#.deps.json
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\c#\bin\Debug\net7.0\c#.runtimeconfig.json
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\c#\bin\Debug\net7.0\c#.dll
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\c#\bin\Debug\net7.0\c#.pdb
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\c#\obj\Debug\net7.0\c#.dll
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\c#\obj\Debug\net7.0\refint\c#.dll
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\c#\obj\Debug\net7.0\c#.pdb
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\c#\obj\Debug\net7.0\c#.genruntimeconfig.cache
+C:\Users\Leandro\OneDrive\DELT4D\AULAS\c#\obj\Debug\net7.0\ref\c#.dll

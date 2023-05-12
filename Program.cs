@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿JogadorFutebol jogador = new JogadorFutebol();
+
+jogador.registrarNumeroCartoesAmarelos();
+jogador.registrarNumerosCartoesVermelhos();
+jogador.registrarNumerosCartoesVermelhos();
+
+jogador.imprimir();

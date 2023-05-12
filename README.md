@@ -3,8 +3,8 @@
 ## Faça uma struct para cada um dos contextos abaixo, pense em todos os dados possíveis que a struct deve possuir e implemente a lógica das operações descritas a seguir:
 
 ### (a) JogadorFutebol
-- registrarNumeroCatoesAmarelos() //OBS: Aumenta a  quantidade presente no atributo número de cartões amarelos.
-- registrarNumeroCatoesVermelhos() //OBS: Aumenta a  quantidade presente no atributo número de cartões vermelhos.
+- registrarNumeroCartoesAmarelos() //OBS: Aumenta a  quantidade presente no atributo número de cartões amarelos.
+- registrarNumeroCartoesVermelhos() //OBS: Aumenta a  quantidade presente no atributo número de cartões vermelhos.
 - verificarVinculoClube() //OBS: Verifica se o jogador possui vinculo com algum clube de futebol.
 - imprimir()
 
