@@ -9,9 +9,9 @@
 - imprimir()
 
 ### (b) EquipeEsports
-- registrarCampeonatoVencido(valorPremio) //OBS: Aumenta a quantidade presente no atributo número de campeonatos vencidose usa o métodopara atualizar o valor de premiações.
+- registrarCampeonatoVencido(valorPremio) //OBS: Aumenta a quantidade presente no atributo número de campeonatos vencidos e usa o método para atualizar o valor de premiações.
 - atualizarValorTotalPremiacoes(valor) //OBS: atualiza  o  valor  total de premiações com base no valor ganho em um campeonato.
-- verificarAnoEstreia() //OBS: Com  base  no  atributo  data  de  estreia da  equipe  no cenárionacional  de  e-sports  verifica  se  o  ano  atual corresponde ao ano de estreia, ou seja indica se a equipe é novata ou veterana.
+- verificarAnoEstreia() //OBS: Com  base  no  atributo  data  de  estreia da  equipe  no cenário nacional  de  e-sports  verifica  se  o  ano  atual corresponde ao ano de estreia, ou seja indica se a equipe é novata ou veterana.
 - imprimir()
 
 ### (c) Produto
