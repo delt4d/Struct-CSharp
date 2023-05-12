@@ -20,7 +20,7 @@ public struct EquipeEsportes
     }
 
     public bool verificarAnoEstreia() {
-        var dataAtual = new DateOnly();
+        var dataAtual = DateTime.Now;
         var mesmaData = dataAtual.Year.Equals(this.dataEstreia.Year);
         return mesmaData;        
     }
